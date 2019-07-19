@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ThreeD_Surface.qml</file>
+        <file>wafermap.csv</file>
+        <file>icons/copy.png</file>
+        <file>icons/directory_open.png</file>
+        <file>icons/ellipse_blue.png</file>
+        <file>icons/ellipse_green.png</file>
+        <file>icons/ellipse_red.png</file>
+        <file>icons/ellipse_yellow.png</file>
+        <file>icons/error.png</file>
+        <file>icons/file_yellow_empty.png</file>
+        <file>icons/floppy_save.png</file>
+        <file>icons/format_normal.png</file>
+        <file>icons/help.png</file>
+        <file>icons/info.png</file>
+        <file>icons/magnifier.png</file>
+        <file>icons/minus_red.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/pencil_green.png</file>
+        <file>icons/pencil_magenta.png</file>
+        <file>icons/plus_green.png</file>
+        <file>icons/redo_blue.png</file>
+        <file>icons/scissors.png</file>
+        <file>icons/undo_blue.png</file>
+        <file>RecipeEditor.qml</file>
+        <file>MyModel.qml</file>
+    </qresource>
+</RCC>
